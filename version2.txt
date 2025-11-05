@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chapter 2 modified for version 5 in master.
+=======
+chapter 2 modified for version 4 in git Branch - safe.
+>>>>>>> safe
